@@ -1,0 +1,5 @@
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas\bin\Debug\UnitTestKatas.exe
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas\bin\Debug\UnitTestKatas.pdb
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas\obj\Debug\UnitTestKatas.csprojResolveAssemblyReference.cache
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas\obj\Debug\UnitTestKatas.exe
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas\obj\Debug\UnitTestKatas.pdb

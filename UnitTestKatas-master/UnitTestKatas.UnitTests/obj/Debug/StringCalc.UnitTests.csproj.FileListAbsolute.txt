@@ -1,0 +1,9 @@
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas.UnitTests\obj\Debug\StringCalc.UnitTests.csprojResolveAssemblyReference.cache
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas.UnitTests\bin\Debug\StringCalc.UnitTests.dll
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas.UnitTests\bin\Debug\StringCalc.UnitTests.pdb
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas.UnitTests\bin\Debug\nunit.framework.dll
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas.UnitTests\bin\Debug\StringCalc.exe
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas.UnitTests\bin\Debug\StringCalc.pdb
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas.UnitTests\bin\Debug\nunit.framework.xml
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas.UnitTests\obj\Debug\StringCalc.UnitTests.dll
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas.UnitTests\obj\Debug\StringCalc.UnitTests.pdb

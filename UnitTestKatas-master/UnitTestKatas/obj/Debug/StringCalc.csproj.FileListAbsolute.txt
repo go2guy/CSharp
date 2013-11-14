@@ -1,0 +1,5 @@
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas\bin\Debug\StringCalc.exe
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas\bin\Debug\StringCalc.pdb
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas\obj\Debug\StringCalc.csprojResolveAssemblyReference.cache
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas\obj\Debug\StringCalc.exe
+C:\FCSAmerica.git\UnitTestKatas\UnitTestKatas\obj\Debug\StringCalc.pdb

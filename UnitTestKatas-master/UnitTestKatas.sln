@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalc.UnitTests", "UnitTestKatas.UnitTests\StringCalc.UnitTests.csproj", "{8B83FBFD-B7B0-4FE3-9B17-1247FF2C073A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalc", "UnitTestKatas\StringCalc.csproj", "{B9B2E3BA-8911-42A6-B051-15EEE7001300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B83FBFD-B7B0-4FE3-9B17-1247FF2C073A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B83FBFD-B7B0-4FE3-9B17-1247FF2C073A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B83FBFD-B7B0-4FE3-9B17-1247FF2C073A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B83FBFD-B7B0-4FE3-9B17-1247FF2C073A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B2E3BA-8911-42A6-B051-15EEE7001300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B2E3BA-8911-42A6-B051-15EEE7001300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B2E3BA-8911-42A6-B051-15EEE7001300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B2E3BA-8911-42A6-B051-15EEE7001300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
