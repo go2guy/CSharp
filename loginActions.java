@@ -21,7 +21,7 @@ public class loginActions {
 	//Long timeout = Long.valueOf(webdriverTimeout);
     
     
-    public void initNew(WebDriver driver, Long timeout)
+    public void initThis(WebDriver driver, Long timeout)
     {
 
       	mapping = new loginMapping(driver);
